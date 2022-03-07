@@ -98,18 +98,7 @@ export default function Layout({ children, home, }) {
       </header>
       <main className="main">{children}</main>
       <footer className="footer">
-        <span>© 2020 Frasers Gourmet Hideaway |</span>
-        <span className="no-wrap">
-          &nbsp;Built by:&nbsp;
-          <a
-            className="light-text"
-            href="https://github.com/ryan3738"
-            target="_blank"
-            rel="noreferrer noopener"
-          >
-            Ryan Fraser
-          </a>
-        </span>
+        <span>© 2020 Frasers Gourmet Hideaway </span>        
         <nav className="nav-list">
           <NavList />
         </nav>

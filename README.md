@@ -27,13 +27,3 @@ This is a website for Fraser's Gourmet Hideaway coded using Next.js, React.js, J
 Make changes to the website info in the public folder or the components
 Deploy the application using Netlify, Vercel, or another service.
 
-## Deploy
-
-The easiest way to deploy this Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-
